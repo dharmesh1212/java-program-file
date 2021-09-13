@@ -15,11 +15,7 @@ public class codeValidation {
 		 Check(DOJ);
 		 
 		 
-		 
-		 
-		 
-	
-				
+		   
 				
 				//	 Date date1= sc.next();
 				  

@@ -7,7 +7,7 @@ public class codeValidation {
 	static Scanner sc= new Scanner(System.in);
 	public static void main(String[] args) {
 	
-		 boolean IsDateValid=false;
+//		 boolean IsDateValid=false;
 		 String DOJ;
 
 		 System.out.println("ENTER THE DATE= DD-MM-YYYY");
